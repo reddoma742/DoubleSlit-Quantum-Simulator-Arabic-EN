@@ -1,10 +1,10 @@
+# Double Slit Quantum Simulator | محاكاة الشق المزدوج الكمي
 
+![Berramdane Model Result Arabic](images/Result-v12.1-ar.jpg)
 
-## نتائج المحاكاة (Results)
+![Berramdane Model Result English](images/Result-v12.1-en.jpg)
 
-![Berramdane Model Result Arabic](images/Result-v12.1-ar.png)
-
-![Berramdane Model Result English](images/Result-v12.1-en.png)
+ 
 
 # Double‑Slit Quantum Simulator | محاكاة الشق المزدوج الكمي
 
