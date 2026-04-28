@@ -1,3 +1,10 @@
+
+markdown
+![Berramdane Model Result](images/Result-v12.1-ar.png)
+markdown
+![Berramdane Model Result](images/Result-v12.1-en.png)
+
+
 # Double‑Slit Quantum Simulator | محاكاة الشق المزدوج الكمي
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
